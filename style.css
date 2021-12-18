@@ -139,12 +139,9 @@ body {
 	line-height: 1.5;
 }
 @media (max-width: 41em) {
-	html {
-		font-size: 50%;
-	}
 	.section {
-		width: 30rem;
-		margin-top: 6.8;
+		width: 90%;
+		margin-top: 2.4rem;
 		grid-template-columns: 1fr;
 		grid-template-rows: repeat(3, 1fr);
 	}
